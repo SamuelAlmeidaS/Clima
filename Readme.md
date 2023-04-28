@@ -1,9 +1,9 @@
-# Clima
+# :high_brightness:Clima
 
 ## Tech
 * HTML
 * CSS
 * Javascript
 
-## API
-[API](https://openweathermap.org/)
+## :link:API
+[Openweather](https://openweathermap.org/)
