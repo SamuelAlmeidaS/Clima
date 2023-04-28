@@ -1,6 +1,6 @@
 # :high_brightness:Clima
 
-## Tech
+## :wrench:Tech
 * HTML
 * CSS
 * Javascript
