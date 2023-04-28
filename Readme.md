@@ -6,5 +6,4 @@
 * Javascript
 
 ### API
-
 [API](https://openweathermap.org/)
