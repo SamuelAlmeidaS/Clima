@@ -5,5 +5,5 @@
 * CSS
 * Javascript
 
-### API
+## API
 [API](https://openweathermap.org/)
